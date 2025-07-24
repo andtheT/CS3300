@@ -1,4 +1,4 @@
-# CS330
+# CS3300
 Windows Auditing project for UCCS course CS 3300 - Software Engineering
 
 For full functionality, the user will need to install:
